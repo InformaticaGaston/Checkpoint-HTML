@@ -1,2 +1,2 @@
-# checkpoint-html
+# checkpoint-css
 here u find my work for the html checkpoint with a little bit of css work
